@@ -9,7 +9,7 @@ __________________________________________
 
 # installation  
 
-termux-chbage-repo   
+'''termux-change-repo'''
 
 pkg update  -y
 
