@@ -4,12 +4,13 @@ __________________________________________
 
        telegram username : @Drak24Evil
         Instagram username: mr_rkarthik
+        
 
 __________________________________________
 
 # installation  
 
-'''termux-change-repo'''
+termux-change-repo
 
 pkg update  -y
 
